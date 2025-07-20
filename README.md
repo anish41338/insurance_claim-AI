@@ -1,8 +1,5 @@
 # Claims Automation System
 
-**Last updated:** July 20, 2025  
-**Tech stack:** FastAPI, Streamlit, Python, OCR, modular AI-ready design
-
 ## 🚀 Overview
 
 The Claims Automation System is an AI-powered, modular platform that accelerates insurance claim processing. It leverages intelligent document handling, automated classification, smart workflow routing, and built-in rule compliance to streamline claims from submission through adjudication. The system is ideal for insurers, TPAs, or tech consultancies seeking scalable workflow automation and rapid digital transformation.

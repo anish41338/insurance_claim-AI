@@ -1,0 +1,36 @@
+# requirements.txt
+
+# Core processing
+pandas
+numpy
+
+# Document processing (PDFs, images, and text)
+pdfplumber
+python-docx
+pytesseract
+Pillow
+
+# Machine learning and classification
+scikit-learn
+xgboost
+
+# Deep learning (if needed for text/image understanding)
+torch
+transformers
+
+# FastAPI for building API endpoints
+fastapi
+uvicorn
+
+# For workflow automation and rules
+pydantic
+networkx
+
+# Database integration (lightweight; adjust as necessary)
+sqlalchemy
+
+# For UI or dashboard (optional, remove if not planning UI)
+streamlit
+
+# Utilities
+python-dotenv
